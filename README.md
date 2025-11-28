@@ -31,15 +31,15 @@ Actualmente, mi objetivo es construir un perfil **Full Stack** robusto, con una 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools / Tecnologías y Herramientas
 
-**Languages**
+**Languages / Lenguajes**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-**Environment & Tools**
+**Environment & Tools / Entornos y herramientas**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -49,12 +49,11 @@ Actualmente, mi objetivo es construir un perfil **Full Stack** robusto, con una 
 
 ---
 
-### ⚡ Current Status & Learning
+### ⚡ Current Status & Learning / Actividad y estudios en curso
 
 * 🔭 **Working on (42):** `ft_printf` - Recreando la función printf de la librería estándar de C.
-* ✅ **Completed (42):** `Libft` - Mi propia librería de funciones en C.
 * 🎓 **Studying (UGR):** Profundizando en Desarrollo de Software y Sistemas.
-* 🌱 **Learning:** Mejorando mis habilidades en C y explorando arquitecturas de software.
+* 🌱 **Learning:** Mejorando mis habilidades en C y explorando el mundo del software.
 
 ---
 
