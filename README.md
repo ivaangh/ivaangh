@@ -1,29 +1,29 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/ivaangh">Iván</a>! 👋</h1>
   
-  <h3>💻 Computer Engineering Student @ UGR | 🦈 Cadet @ 42 Network</h3>
+  <h3>💻 Computer Engineering Student - UGR | Cadet - 42 Network</h3>
 
   <p>
-    <em>"Combining academic rigor with peer-to-peer practical learning."</em>
+    <em>"Combining solid academic foundations with peer-to-peer practical learning."</em>
   </p>
 
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="https://https://www.linkedin.com/in/iv%C3%A1n-garc%C3%ADa-hern%C3%A1ndez-21a6b5307/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-email@example.com">
+  <!--a>
+  <a href="mailto:@example.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  </a>-->
 </div>
 
 ---
 
 ### 🚀 About Me / Sobre Mí
 
-Soy estudiante de 3º año de **Ingeniería Informática en la Universidad de Granada (UGR)** y recientemente he comenzado mi andadura en el **Common Core de 42**.
+Soy estudiante de 3º año de **Ingeniería Informática en la Universidad de Granada (UGR)** y actualmente estoy cursando el **Common Core de 42**.
 
 Mi formación se basa en la **dualidad**:
-* 🎓 **En la Universidad:** Disfruto de asignaturas de Desarrollo de Software y metodologías, obteniendo una base teórica sólida.
-* 🌑 **En 42:** Trabajo a bajo nivel (C), gestionando memoria y punteros, fomentando mi capacidad **autodidacta** y la resolución de problemas entre compañeros.
+* **En la Universidad:** Obtengo una base teórica sólida en materias de Estructuras de Datos, Arquitectura de Sistemas y metodologías de Desarrollo de Software.
+* **En 42:** Trabajo a bajo nivel (C), gestionando memoria y punteros, fomentando mi capacidad **autodidacta** y la resolución de problemas entre compañeros.
 
 Actualmente, mi objetivo es construir un perfil **Full Stack** robusto, con una base fuerte en el backend gracias a C/Java y un interés creciente por el Frontend. Además, mantengo una curiosidad activa por la **Ciberseguridad**, un campo que aspiro a explorar en profundidad en el futuro.
 
