@@ -7,7 +7,7 @@
     <em>"Combining solid academic foundations with peer-to-peer practical learning."</em>
   </p>
 
-  <a href="linkedin.com/in/iván-garcía-hernández-21a6b5307">
+  <a href="[linkedin.com/in/iván-garcía-hernández-21a6b5307](https://www.linkedin.com/in/iv%C3%A1n-garc%C3%ADa-hern%C3%A1ndez-21a6b5307/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   <!--a>
   <a href="mailto:@example.com">
