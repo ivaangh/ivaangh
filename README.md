@@ -7,7 +7,7 @@
     <em>"Combining solid academic foundations with peer-to-peer practical learning."</em>
   </p>
 
-  <a href="https://https://www.linkedin.com/in/iv%C3%A1n-garc%C3%ADa-hern%C3%A1ndez-21a6b5307/">
+  <a href="linkedin.com/in/iván-garcía-hernández-21a6b5307">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   <!--a>
   <a href="mailto:@example.com">
@@ -57,7 +57,7 @@ Actualmente, mi objetivo es construir un perfil **Full Stack** robusto, con una 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivaangh&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <!--
