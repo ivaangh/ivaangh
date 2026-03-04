@@ -7,7 +7,7 @@
     <em>"Combining solid academic foundations with peer-to-peer practical learning."</em>
   </p>
 
-  <a href="https://www.linkedin.com/in/iv%C3%A1n-garc%C3%ADa-hern%C3%A1ndez-21a6b5307/" target="_blank">
+  <a href="https://www.linkedin.com/in/iv%C3%A1n-garc%C3%ADa-hern%C3%A1ndez-21a6b5307/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <!--
